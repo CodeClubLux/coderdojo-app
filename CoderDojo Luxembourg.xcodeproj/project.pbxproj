@@ -168,6 +168,7 @@
 		AA757FE31AF2191400BF438F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Steve Clement";
 				TargetAttributes = {
@@ -427,6 +428,7 @@
 				AA75800E1AF2191400BF438F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AA75800F1AF2191400BF438F /* Build configuration list for PBXNativeTarget "CoderDojo LuxembourgTests" */ = {
 			isa = XCConfigurationList;
@@ -435,6 +437,7 @@
 				AA7580111AF2191400BF438F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
